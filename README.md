@@ -16,6 +16,7 @@
 - The files for each of the models are located in the *Models* folder.
 - The code file are Python Notebooks.
 - Each file contains a detailed analysis of the model, this includes the ***confusion matrix, precision, recall, f1-score, and support***.
+- Libraries Used: 
 
 ## Results
 
@@ -53,6 +54,8 @@
 
 ![Validation Accuracy of Various Models](https://user-images.githubusercontent.com/79955028/127029675-442b613f-2ded-41b8-b730-93e1a8952ccd.png)
 
+## Future Work
+To implement different and new algorithms. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
