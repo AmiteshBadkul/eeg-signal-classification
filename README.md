@@ -15,7 +15,7 @@
 ## Code
 - The files for each of the models are located in the *Models* folder.
 - The code file are Python Notebooks.
-- Each file contains a detailed analysis of the model, this includes the confusion matrix, precision, recall, f1-score, and support.
+- Each file contains a detailed analysis of the model, this includes the ***confusion matrix, precision, recall, f1-score, and support***.
 
 ## Results
 
