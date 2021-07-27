@@ -2,8 +2,8 @@
 
 ## Introduction
 
-- The human brain has unique brain wave frequencies. There are five types of brain waves - Gamma, Beta (low, midrange, and high beta as its sub-sections), Alpha, Theta, and Delta waves ordered by the depth of brain waves [[1]](http://dx.doi.org/10.1109/ICDAMT.2018.8376536).
 - EEG stands for electroencephalogram, and it measures the electrical activity in your brain from the synaptic excitations of your neurons’ dendrites.
+- The human brain has unique brain wave frequencies. There are five types of brain waves - Gamma, Beta (low, midrange, and high beta as its sub-sections), Alpha, Theta, and Delta waves ordered by the depth of brain waves [[1]](http://dx.doi.org/10.1109/ICDAMT.2018.8376536).
 
 
 ## Data
